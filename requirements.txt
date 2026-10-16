@@ -1,0 +1,5 @@
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+scipy>=1.12,<2.0
+streamlit>=1.38,<2.0
+pytest>=8,<9
